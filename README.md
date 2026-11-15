@@ -20,7 +20,7 @@ The package was tested using a manual build from the [libfreenect](https://githu
 Copy the repo to your workspace source folder.
 ~~~
 cd ~/ws/src
-git clone https://github.com/fadlio/kinect_ros2
+git clone [https://github.com/SARAH-UFRB/kinect_ros2.git]
 ~~~
 
 ### 3. Install any missing ROS packages
